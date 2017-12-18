@@ -7,7 +7,7 @@ author: Zeina
 ---
 Here is the blog post itself.
 
-**Bold text here. **[**Link here**](http://google.com)
+In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
 # Header
 

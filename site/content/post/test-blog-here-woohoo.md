@@ -1,6 +1,6 @@
 ---
 title: Test blog here woohoo
-date: 2017-12-18T08:30:22-05:00
+date: 2017-12-18T13:30:22.000Z
 description: Here is some intro text here here here and here.
 image: /img/otp-illustration.jpg
 ---
